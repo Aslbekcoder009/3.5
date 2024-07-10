@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: dodgerblue;
+}
+.ota{
+   width: 900px;
+    margin: 0px auto;
+    margin-top: 200px;
+    color: white;
+
+}
+.box1{
+    display: inline-block;
+
+}
+.box2{
+    display: inline-block;
+    margin-left: 200px;
+
+}
+.box3{
+    display: inline-block;
+    margin-left: 200px;
+
+}
+p{
+    cursor: pointer;
+}
+p:hover{
+    color: red;
+}
+.sla{
+    font-weight: 700;
+}
